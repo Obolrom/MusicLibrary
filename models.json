@@ -4,6 +4,21 @@
       "song_name": "otherside",
       "id": 1,
       "url": "https://github.com/Obolrom/MusicLibrary/blob/master/otherside.mp3?raw=true"
+    },
+    {
+      "song_name": "B.Y.O.B",
+      "id": 2,
+      "url": "https://github.com/Obolrom/MusicLibrary/blob/master/byob.mp3?raw=true"
+    },
+    {
+      "song_name": "meaning of ife",
+      "id": 3,
+      "url": "https://github.com/Obolrom/MusicLibrary/blob/master/meaning_of_life.mp3?raw=true"
+    },
+    {
+      "song_name": "without me",
+      "id": 4,
+      "url": "https://github.com/Obolrom/MusicLibrary/blob/master/without_me.mp3?raw=true"
     }
   ]
 }
